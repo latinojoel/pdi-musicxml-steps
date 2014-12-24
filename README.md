@@ -8,5 +8,5 @@ A MusicXML reader step for Pentaho Data Integration (maybe the much useless plug
 * Copy the folder <source-code>/target/MusicXMLSteps/MusicXMLSteps to <data-integration>/plugins
 * Copy <source-code>/target/MusicXMLSteps/MusicXMLSteps/lib/jfugue-4.0.3.jar to <data-integration>/lib
 * Start Spoon
-* Enjoy the data music
+* Enjoy the [data music](https://www.youtube.com/watch?v=sL863s0kqSo)
 
